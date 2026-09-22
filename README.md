@@ -21,18 +21,6 @@ It is created to practice the basics of HTML forms, radio buttons, buttons, and 
 - Responsive and beginner-friendly layout
 - Styled using CSS
 
-📂 Project Structure
-
-quiz-game/
-│
-├── index.html
-└── style.css
-
-🚀 How to Run
-
-1. Download or clone this repository.
-2. Open the "index.html" file in a browser.
-3. Select an answer and explore the quiz interface.
 
 📚 What I Learned
 
